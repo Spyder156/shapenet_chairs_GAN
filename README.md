@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # shapenet_chairs_GAN
-=======
+
 ## **Shape Generation using Spatially Partitioned Point Clouds**
 
 ### **What’s This?**

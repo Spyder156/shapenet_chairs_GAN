@@ -62,8 +62,3 @@ This loads a trained model and generates new 3D shapes as **point clouds**.
 - Maybe add **normal/color attributes** to the point clouds?  
 - Try training on **other ShapeNet categories** (tables, sofas, etc.).  
 - Improve the generator for **better diversity** in shapes.
-
----
-Let me know if you’d like any refinements! 🚀
-
->>>>>>> e14c8db (First Commit)
